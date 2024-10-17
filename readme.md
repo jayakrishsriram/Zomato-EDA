@@ -18,18 +18,5 @@ This dataset have 17 column. These column with their use is mentioned below.
 16. `listed_in(type)` - Gives the category of the restaurants.
 17. `listed_in(city)` - Name of the City(like area that it comes under)
  
-These are the 17 columns with its detail. There are some columns that are not necessary for the analysis. Those columns are removed
-
-# Plans for this analysis:
-1. Type of food most people like.
-2. Review based on each restaurants using review_list column.(using ai api for documenting.)
-3. Ratings based on each restaurants with its range.
-4. Number of votes vs rating.
-5. Number of hotels in each location
-6. Type of hotel that is common in each location.
-7. mapping location and listed_in(city)
-# Achieved analysis:
-1. Removed unwanted data
-2. Replace mean value for some data
-3. Replacing minimum with others to make it ready for visualization.
+These are the 17 columns with its detail. There are some columns that are not necessary for the analysis. Those columns are removed.
 
